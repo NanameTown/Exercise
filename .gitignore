@@ -1,0 +1,8 @@
+#nodejs
+node_modules
+*.log
+.*
+!.gitignore
+
+#windows
+Thumbs.db
