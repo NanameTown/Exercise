@@ -1,6 +1,7 @@
 Exercise
 ========
 
+```
 enchant();  
   
 window.onload = function(){  
@@ -39,3 +40,4 @@ window.onload = function(){
 	};  
 	core.start();  
 }  
+```
